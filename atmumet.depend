@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1575807627 source:d:\rpl\c++\project\atmumet\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1576658606 
+
+1576056311 source:c:\users\vito r.f\documents\c++ project's\atm-master\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1576658606 source:c:\users\vito r.f\documents\file kampus\c++ project's\atm-master\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<conio.h>
+
+1576658681 source:/home/alfan/c++/coba/atm-master/main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<conio.h>
+
+1576930401 source:c:\users\alfan candra\documents\19104026\atm-master-master\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<conio.h>
+
