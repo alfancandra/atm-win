@@ -332,7 +332,7 @@ int main()
                             cin >> pilih;
                             switch(pilih){
                             case 1:{
-                                riwayat_tarik_tunai();
+                                riwayat_setor_tunai();
                                 goto coba;
                                 break;
                             }
